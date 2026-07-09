@@ -262,3 +262,5 @@ mkdir images
 cd images
 touch background.jpg
 cd ../../..
+cd imges
+cd images/
