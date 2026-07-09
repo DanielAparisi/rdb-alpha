@@ -344,3 +344,11 @@ mv images/footer.jpeg client/assets/images
 find
 rm images
 rmdir images
+cd images
+ls --color=auto
+rm *.images
+rm -r images
+rm background.jpg CodeAlly.svg CodeRoad.svg freeCodeCamp.svg website
+ls --color=auto
+cd ..
+rmdir images
