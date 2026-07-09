@@ -485,3 +485,10 @@ touch background.jpg
 rm images/background.jpg
 rmdir images
 ls --color=auto
+cd assets
+cd client/assets
+mkdir icons
+rmdir icons
+cd ..
+cd ..
+mkdir client/assets/icons
