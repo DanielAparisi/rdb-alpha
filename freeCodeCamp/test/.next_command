@@ -241,3 +241,14 @@ find
 find website
 find client
 find --help
+find -index.html client
+find index.html client
+find - index.html client
+mv index.html client
+ls --color=auto
+find
+find -index.html client/src
+find index.html client/src
+find - index.html client/src
+find -index.html client/src
+find -name index.html
