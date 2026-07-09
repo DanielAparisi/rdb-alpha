@@ -156,3 +156,4 @@ rm footer.jpg
 touch footer.jpeg
 cp footer.jpeg images
 cd images
+ls --color=auto
