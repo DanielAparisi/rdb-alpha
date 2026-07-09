@@ -5,7 +5,7 @@
 1. Git
 
 ### How to Run a Project in Docker
-
+iners:
 1. Clone the RDB Alpha repo with `git clone https://github.com/freeCodeCamp/rdb-alpha`
 1. Open a terminal, navigate to the `rdb-alpha` directory, and open VSCode with `code .`
 1. Press Ctrl / Cmd + Shift + P and enter `Dev Containers: Rebuild Container and Reopen in Container`
