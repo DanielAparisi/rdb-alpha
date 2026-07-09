@@ -314,3 +314,4 @@ find -name header.png
 find
 touch header.png
 mv header.png client/assets/images
+find -name header.png
