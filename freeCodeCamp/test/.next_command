@@ -494,3 +494,5 @@ cd ..
 mkdir client/assets/icons
 find
 mv CodeAlly.svg client/assets/icons
+ls --color=auto
+find
