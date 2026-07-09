@@ -240,3 +240,4 @@ mv styles.css client/src
 find
 find website
 find client
+find --help
