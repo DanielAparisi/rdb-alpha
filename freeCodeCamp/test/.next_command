@@ -500,3 +500,11 @@ mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
 find
 mkdir client/assets/fonts
+mv fonts/roboto.woff client/assets/fonts
+cd client/assets/fonts
+touch roboto-bold.woff
+rm roboto-bold.woff
+cd ..
+cd ..
+cd ..
+touch client/assets/fonts/roboto-bold.woff
