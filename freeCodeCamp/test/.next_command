@@ -159,3 +159,10 @@ cd images
 ls --color=auto
 cd ..
 ls --color=auto
+clear
+cd images/
+ls --color=auto
+cd..
+cd ..
+ls --color=auto
+rm header.png
