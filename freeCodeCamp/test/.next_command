@@ -155,3 +155,4 @@ cp footer.jpg images
 rm footer.jpg
 touch footer.jpeg
 cp footer.jpeg images
+cd images
