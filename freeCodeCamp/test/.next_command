@@ -134,3 +134,4 @@ cp freeCodeCamp.svg images
 cd images
 ls --color=auto
 ls --color=auto
+cd ..
