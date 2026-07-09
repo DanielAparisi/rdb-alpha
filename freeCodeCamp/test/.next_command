@@ -55,3 +55,4 @@ cd ..
 ls --color=auto
 cat package.json
 more package.json
+clear
