@@ -79,3 +79,5 @@ clear
 ls --color=auto
 more index.js
 cd ..
+ls --color=auto
+cd ..
