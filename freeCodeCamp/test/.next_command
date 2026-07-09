@@ -49,3 +49,9 @@ pwd
 ls --color=auto test
 cd ..
 ls --color=auto
+cd test
+ls --color=auto
+cd ..
+ls --color=auto
+cat package.json
+more package.json
