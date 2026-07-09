@@ -316,3 +316,28 @@ touch header.png
 mv header.png client/assets/images
 find -name header.png
 find -name footer.jpeg
+cd images
+mv footer.jpeg website
+find -name footer,jpeg
+find -name footer.jpeg
+cd ..
+find -name footer.jpeg
+ls --color=auto
+cd images
+ls --color=auto
+__vsc_prompt_cmd_original
+mv footer.jpg footer.jpeg
+mv footer.jpeg website
+cd ..
+ls --color=auto
+find -name footer.jpeg
+find --all
+find
+touch footer.jpeg
+touch footer.jpeg
+mv footer.jpeg client/assets/images
+find -name footer.jpeg
+cd images
+touch footer.jpeg
+cd ..
+mv images/footer.jpeg client/assets/images
