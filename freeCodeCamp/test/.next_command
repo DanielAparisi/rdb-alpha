@@ -75,3 +75,5 @@ cd src
 cd src
 pwdd
 pwd
+clear
+ls --color=auto
