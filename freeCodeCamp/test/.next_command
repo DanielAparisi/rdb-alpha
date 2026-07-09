@@ -132,3 +132,5 @@ cp footer.jpg images
 cp header.png images
 cp freeCodeCamp.svg images
 cd images
+ls --color=auto
+ls --color=auto
