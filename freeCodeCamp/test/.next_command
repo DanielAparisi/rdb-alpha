@@ -227,3 +227,4 @@ ls --color=auto
 cd website
 ls --color=auto
 mv lato.ttf fonts
+mv menlo.otf fonts
