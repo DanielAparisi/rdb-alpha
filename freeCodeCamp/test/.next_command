@@ -139,3 +139,19 @@ ls --color=auto
 rm background.jpg
 ls --color=auto
 cp header.png images
+ncp footer.jpg images
+cp footer.jpg images
+cd images
+ls --color=auto
+cd ..
+cp footer.jpg images
+??
+?
+cd images
+rm footer.jpg
+ls --color=auto
+cd ..
+cp footer.jpg images
+rm footer.jpg
+touch footer.jpeg
+cp footer.jpeg images
