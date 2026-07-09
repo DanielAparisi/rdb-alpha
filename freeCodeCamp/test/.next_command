@@ -277,3 +277,40 @@ mv header.png client/assets/images
 find -name/src
 find -name src
 find -name images
+find - header.png
+find -name header.png
+cd images
+ls --color=auto
+cd ..
+cd client/assets/images
+rm header.png
+cd ../../...
+cd ../../..
+cd images
+ls --color=auto
+ls --color=auto
+touch header.png
+mv header.png client/src/images
+ls --color=auto
+mv header.png client/src/images
+mv header.png client/assets/images
+clear
+cd ..
+mv header.png client/assets/images
+ls --color=auto
+find -header.png
+find -name header.png
+cd images
+mv header.png website
+mv clear
+clear
+mv header.png client/assets/images
+find
+cd ..
+mv header.png client/assets/images
+ls --color=auto
+find -header.png
+find -name header.png
+find
+touch header.png
+mv header.png client/assets/images
