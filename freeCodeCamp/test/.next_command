@@ -99,3 +99,9 @@ ls --color=auto
 ls --color=auto --help
 ls --color=auto --all
 cd .
+touch background.png
+rm background.png
+ls --color=auto --all
+cd ..
+cd website/
+touch background.jpg
