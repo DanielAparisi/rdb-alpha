@@ -122,3 +122,13 @@ ls --color=auto
 mkdir images
 ls --color=auto
 cp background.jpg images/
+cp CodeAlly.svg imges
+cp CodeAlly.svg images
+cp CodeRoad.svg images
+clear
+ls --color=auto
+cd footer.jpg images
+cp footer.jpg images
+cp header.png images
+cp freeCodeCamp.svg images
+cd images
